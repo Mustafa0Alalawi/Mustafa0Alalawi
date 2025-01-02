@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa0alalawi&label=Profile%20views&color=0e75b6&style=flat" alt="mustafa0alalawi" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://mustoo.fi/project](https://mustoo.fi/project)
+- 👨‍💻 All of my projects are available at [mustoo.fi/project](mustoo.fi/project)
 
 - 📫 How to reach me **alalwi_mostafa@yahoo.com**
 
