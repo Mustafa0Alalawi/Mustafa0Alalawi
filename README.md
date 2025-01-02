@@ -3,10 +3,10 @@
 
 <p align="left">Passionate developer with expertise in:
 
-Frontend: ReactJS, NextJS, VueJS, Svelte
-Backend: NodeJS, Deno
-Databases: PostgreSQL, MySQL
-Languages: JavaScript, TypeScript, Python, Scala, HTML, CSS
+Frontend: ReactJS, NextJS, VueJS, Svelte <br>
+Backend: NodeJS, Deno <br>
+Databases: PostgreSQL, MySQL <br>
+Languages: JavaScript, TypeScript, Python, Scala, HTML, CSS <br>
 Always eager to learn, build, and solve challenging problems. 🚀 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa0alalawi&label=Profile%20views&color=0e75b6&style=flat" alt="mustafa0alalawi" /> </p>
