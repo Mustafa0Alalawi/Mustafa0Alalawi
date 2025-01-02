@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mustafa Alalawi</h1>
-<h3 align="center">Software developer from Finland</h3>
+<h3 align="center">Software developer from Finland Passionate developer with expertise in: Frontend: ReactJS, NextJS, VueJS, Svelte, HTML, CSS Backend: NodeJS, Deno, Scala, Python Databases: PostgreSQL Languages: JavaScript, TypeScript, Python, Scala Always eager to learn, build, and solve challenging problems. 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa0alalawi&label=Profile%20views&color=0e75b6&style=flat" alt="mustafa0alalawi" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://mustoo.fi/](https://mustoo.fi/)
+- 👨‍💻 All of my projects are available at [mustoo.fi](mustoo.fi)
 
 - 📫 How to reach me **alalwi_mostafa@yahoo.com**
 
