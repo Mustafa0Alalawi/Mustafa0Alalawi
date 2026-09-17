@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Alalawi</h1>
-<h2 align="center"> software engineer from Finland</h2>
+<h2 align="center"> Software Engineer from Finland</h2>
 
 <p align="left">Passionate developer with expertise in building scalable applications using modern technologies:
 
